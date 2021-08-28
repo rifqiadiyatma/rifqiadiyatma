@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Nama Saya **Rifqi Adiyatma**.\
+Nama Saya **Rifqi Adiyatma**.  
 
 ALO ALOOOOO
