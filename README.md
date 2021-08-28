@@ -1,4 +1,4 @@
-### Hey there i am using Github 👋
+### Hey there i am using Github
 
 <!--
 **rifqiadiyatma/rifqiadiyatma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
