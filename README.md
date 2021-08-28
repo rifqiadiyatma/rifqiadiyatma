@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Nnama Saya **Rifqi Adiyatma**  
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/rifqi-a-46491511b/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/rifqiadiyatma/">LinkedIn</a>
 - <a href="https://twitter.com/Kikiy_Rifqi">Twitter</a>
 - 93rifqiadiyatma@gmail.com
 
